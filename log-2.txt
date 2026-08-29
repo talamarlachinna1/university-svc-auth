@@ -1,1 +1,1 @@
-Commit 2 for ai-chatbot
+Commit 2 for university-shared-proto
