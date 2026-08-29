@@ -1,1 +1,1 @@
-Commit 1 for university-svc-auth
+Commit 1 for university-mobile-app
