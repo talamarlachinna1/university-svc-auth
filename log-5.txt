@@ -1,1 +1,1 @@
-Commit 5 for iot-edge
+Commit 5 for fullstack-template
