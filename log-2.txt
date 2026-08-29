@@ -1,1 +1,1 @@
-Commit 2 for university-svc-users
+Commit 2 for shared-proto
