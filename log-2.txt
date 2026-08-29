@@ -1,1 +1,1 @@
-Commit 2 for svc-search-python
+Commit 2 for svc-notifications-node
