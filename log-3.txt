@@ -1,1 +1,1 @@
-Commit 3 for svc-notifications-node
+Commit 3 for svc-shipping-node
