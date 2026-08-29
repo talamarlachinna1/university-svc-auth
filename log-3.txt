@@ -1,1 +1,1 @@
-Commit 3 for rest-api
+Commit 3 for graphql-api
