@@ -1,1 +1,1 @@
-Commit 2 for university-shared-proto
+Commit 2 for university-infra
