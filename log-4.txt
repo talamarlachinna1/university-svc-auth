@@ -1,1 +1,1 @@
-Commit 4 for university-infra
+Commit 4 for university-svc-notifications
