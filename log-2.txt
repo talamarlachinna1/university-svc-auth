@@ -1,1 +1,1 @@
-Commit 2 for university-svc-orders
+Commit 2 for university-svc-catalog
