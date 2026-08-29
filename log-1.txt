@@ -1,1 +1,1 @@
-Commit 1 for svc-orders-python
+Commit 1 for svc-inventory-python
