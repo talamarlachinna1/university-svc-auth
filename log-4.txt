@@ -1,1 +1,1 @@
-Commit 4 for web-merchant-dashboard
+Commit 4 for web-storefront
