@@ -1,1 +1,1 @@
-Commit 6 for php-cms [extra]
+Commit 6 for php-mvc-framework [extra]
