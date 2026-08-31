@@ -1,1 +1,1 @@
-Commit 8 for php-mvc-framework [extra]
+Commit 8 for php-ecommerce-api [extra]
