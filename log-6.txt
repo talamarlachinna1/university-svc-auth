@@ -1,1 +1,1 @@
-Commit 6 for flutter-weather [extra]
+Commit 6 for flutter-chat [extra]
