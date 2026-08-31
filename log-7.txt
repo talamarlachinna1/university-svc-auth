@@ -1,1 +1,1 @@
-Commit 7 for php-api-boilerplate [extra]
+Commit 7 for php-cms [extra]
