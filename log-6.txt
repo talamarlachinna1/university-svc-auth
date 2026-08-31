@@ -1,1 +1,1 @@
-Commit 6 for flutter-chat [extra]
+Commit 6 for flutter-ecommerce [extra]
