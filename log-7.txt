@@ -1,1 +1,1 @@
-Commit 7 for university-mobile-app [extra]
+Commit 7 for university-web-storefront [extra]
